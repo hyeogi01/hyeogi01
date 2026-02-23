@@ -25,7 +25,7 @@
 |2026 Hyundai RT Vision Service|2025.01.05 ~ 2025.02.20|웹 상에서 IQI 제조 이미지에 대한<br/>Anomaly Score과 Heatmap 제공|-|
 
 ## 🛠️Skills
-Python, C, Git, Docker, SQL
+- Python, C, Git, Docker, SQL
 
 ## 📚Certifications
 - ADsP / SQLD
