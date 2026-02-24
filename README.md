@@ -23,6 +23,7 @@
 |LG Aimers 08기|2025.01.02 ~ 2025.04.05|LG의 거대 언어 모델,  EXAONE 경량화 해커톤|-|
 |[반려동물 일상 및 이상증상 분석 서비스](https://github.com/hyeogi01/Pet-Abnormal-Behavior-Observation-Service.git)|2025.01.02 ~|1) VISION/STT 기반 행동 및 이상 증상 분석<br/>2) LLM 기반 통계 및 일기작성|-|
 |2026 Hyundai RT Vision Service|2025.01.05 ~ 2025.02.20|웹 상에서 IQI 제조 이미지에 대한<br/>Anomaly Score과 Heatmap 제공|DaiS Lab|
+|M-CoT 기반 Agent 설계 및 구현|26.02.02 ~|제조 프로세스에 대한 M-CoT와 OpenClaw의 적용|DaiS Lab|
 
 ## 🛠️Skills
 - Python, C, Git, Docker, SQL
