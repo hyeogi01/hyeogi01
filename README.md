@@ -20,7 +20,6 @@
 |[AI Book Recommend System](https://github.com/hyeogi01/AI-Recommend-System.git)|2025.11.17 ~ 2025.12.10|사용자 맞춤형 도서 AI Recommend System|-|
 |HD현대중공업 AI 업무혁신 해커톤|2025.11.25 ~ 2026.02.02|선수미, 기관실 Pillar 최적배치 프로그램 개발|대상<br/>(대표이사상)|종료|
 |[2025학년도 제2차 Meta-BTS 아이디어 공모전](https://github.com/hyeogi01/Maritime-Object-Detection.git)|2025.12.2 ~ 2026.01.30|소형 선박이나 해양 부유물을 주야간 카메라를 이용해 감지하고 분석하는 기술 개발|우수팀<br/>선정|
-|LG Aimers 08기|2025.01.02 ~ 2025.04.05|LG의 거대 언어 모델,  EXAONE 경량화 해커톤|-|
 |[반려동물 일상 및 이상증상 분석 서비스](https://github.com/hyeogi01/Pet-Abnormal-Behavior-Observation-Service.git)|2025.01.02 ~|1) VISION/STT 기반 행동 및 이상 증상 분석<br/>2) LLM 기반 통계 및 일기작성|-|
 |2026 Hyundai RT Vision Service|2025.01.05 ~ 2025.02.20|웹 상에서 IQI 제조 이미지에 대한<br/>Anomaly Score과 Heatmap 제공|DaiS Lab|
 |M-CoT 기반 Agent 설계 및 구현|26.02.02 ~|제조 프로세스에 대한 M-CoT와 OpenClaw의 적용|DaiS Lab|
