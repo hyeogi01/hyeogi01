@@ -21,7 +21,7 @@
 |[2025학년도 제2차 Meta-BTS 아이디어 공모전](https://github.com/hyeogi01/Maritime-Object-Detection.git)|2025.12.2 ~ 2026.01.30|소형 선박이나 해양 부유물을 주야간 카메라를 이용해 감지하고 분석하는 기술 개발|우수팀<br/>선정|
 |[PetLog:반려동물 일상 및 이상증상 분석 서비스](https://github.com/hyeogi01/Pet-Abnormal-Behavior-Observation-Service.git)|2025.01.02 ~ 2026.06.11|1) VISION/STT 기반 행동 및 이상 증상 분석<br/>2) LLM 기반 통계 및 일기작성|Graduation Project|
 |2026 공공빅데이터와 AI활용 실전문제해결|2026.03. ~ 2026.06.24|공공데이터를 활용한 발화장애인용 AI 발음 교정 서비스|최우수상|
-|2026 POSCO SEED 레벨업 그라운드|2026.03. ~ 2026.06.|AI 기반 프린트강판 적용 시각화 프로그램|우수상|
+|[2026 POSCO SEED 레벨업 그라운드](https://github.com/hyeogi01/posart-visualizer.git)|2026.03. ~ 2026.06.|AI 기반 프린트강판 적용 시각화 프로그램|우수상|
 |[대울경] Google AI Agent Challenge|2026.04.25 ~ 2026.06.05|KPI 분석 기반 AGENT 구축|최우수상|
 |UOU로봇OS특강 + 피지컬AI챌린지 대회|2026.05.09 ~ 2026.05.30|Physical AI Challenge|3등|
 |2026학년도 제1회 AI(인공지능)를 활용한 사회문제해결 아이디어 공모전|2026.05.22 ~ 2026.06.23|의료 현장을 위한 감정 인식 기반 양방향 수어 통역 서비스|최우수상|
